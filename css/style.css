@@ -1,0 +1,49 @@
+.mainbox { display: flex; 
+         flex-wrap: wrap;
+         width: 1200px;
+         margin-left: auto;
+         margin-right: auto;
+
+}
+.box1 {
+	     background-color:#4ba3b7;  
+	     width: 50%;
+	     padding: 15px;
+         box-sizing: border-box;
+             display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+span{
+	background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 21px;
+    width: 100px;
+    text-align: center;
+    color: indianred;
+}
+h1{
+	    letter-spacing: 5px;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.box2 { 
+        width: 50%;
+
+}
+p{
+	margin: 0px;
+    font-size: 20px;
+    line-height: 25px;}
+img{
+	    width: 100%;
+    height: 500px;
+    OBJECT-FIT: COVER;
+    OBJECT-POSITION: top;
+    display: block;
+}
+.girl{
+	object-position: center;
+	
+}
